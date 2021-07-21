@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+main{
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	margin-top: 200px;
+}
+.nav-woden{
+	padding-right: 20px;
+	float: left;
+}
+.form-log{
+	width: 300px;
+	height: 200px;
+}
+thead{
+	background-color:#bfbfbf ;
+	
+}
+.a-modal-añadir{
+	float: right;
+}
+.flecha{
+	padding: 10px;
+}
+.flecha img{
+	transition: .3s;
+}
+.flecha:hover img{
+	width: 55px;
+	transition: .3s;
+}
+.search-form{
+	margin-left: 150px;
+	display: inline-block;
+}
+.search-form h3{
+	display: inline-block;
+}
+.f-exc-todos{
+	padding: 20px;
+
+}
+.f-exc-fecha{
+	padding: 20px;
+}
+.f-exc-tecnico{
+padding: 20px;
+}
