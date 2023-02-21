@@ -24,9 +24,9 @@
 
 
 
-
-
-        Autor: Johan Clavijo la gorda es gei &copy
+          Prube para ver el host de github
+         
+        Autor: Johan Clavijo &copy
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
