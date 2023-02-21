@@ -26,7 +26,7 @@
 
 
 
-        Autor: Johan Clavijo &copy
+        Autor: Johan Clavijo la gorda es gei &copy
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
